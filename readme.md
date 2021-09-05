@@ -1,7 +1,20 @@
-# Projeto Techno Vue
+# Projeto TECHNO VUE
 
-````
-Projeto desenvolvido em VueJS
-Front-end para simular um carrinho de compras
-````
-https://onmixstore.com/techno-vue/
+## 💻 Tecnologias utilizadas no teste
+
+<p>Projeto foi criado utilizando as seguintes tecnologias: Vuejs</p>
+
+## Segue abaixo as principais tecnologias utilizadas neste teste:
+<div style="margin-top: 20px">
+    <ul>
+        <li>
+            HTML/CSS ✔️
+        </li>
+        <li>
+            JavaScript ✔️
+        </li>
+        <li>
+            VUEJS ✔️
+        </li>
+    </ul>
+</div>
